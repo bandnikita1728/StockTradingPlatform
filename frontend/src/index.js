@@ -32,3 +32,4 @@ root.render(
     <Footer />
   </BrowserRouter>
 );
+// router setup
