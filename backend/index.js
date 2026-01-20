@@ -174,3 +174,4 @@ mongoose.connect(uri)
     console.error("MongoDB connection failed:", err.message);
     process.exit(1);
   });
+// mongodb connected
