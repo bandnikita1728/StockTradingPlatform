@@ -138,3 +138,4 @@ const Holdings = () => {
 };
 
 export default Holdings;
+// api fetch
