@@ -8,3 +8,4 @@ export function DoughnutChart({ data }) {
   return <Doughnut data={data} />;
 }
 // graphs complete
+// graphs complete
