@@ -148,3 +148,4 @@ const WatchListActions = ({ uid }) => {
 };
 // watchlist complete
 // alpha vantage api
+// 10 min cache
