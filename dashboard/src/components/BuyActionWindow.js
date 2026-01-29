@@ -98,3 +98,4 @@ const OrderActionWindow = ({ uid, mode = "BUY" }) => {
 
 export default OrderActionWindow;
 // sell modal
+// cancel fixed
