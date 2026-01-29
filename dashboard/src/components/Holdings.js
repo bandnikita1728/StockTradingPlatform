@@ -139,3 +139,4 @@ const Holdings = () => {
 
 export default Holdings;
 // api fetch
+// sell per row
