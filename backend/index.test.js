@@ -104,3 +104,4 @@ describe("Backend API endpoints", () => {
     expect(res.body).toHaveProperty("message");
   }, 15000);
 });
+// all tests passing
