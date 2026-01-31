@@ -205,3 +205,4 @@ Amazon Future Engineer Scholar
 - LinkedIn: [linkedin.com/in/nikita-band-122550289](https://linkedin.com/in/nikita-band-122550289)
 - Email: nikitaband635@gmail.com
 // cleanup done
+// readme updated
